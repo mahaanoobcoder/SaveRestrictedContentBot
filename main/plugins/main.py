@@ -27,7 +27,7 @@ Bot = Client(
 )
 
 userbot = Client(
-    session_name=SESSION, 
+    session_string=SESSION, 
     api_hash=API_HASH, 
     api_id=API_ID)
   
